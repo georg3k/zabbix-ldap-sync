@@ -8,7 +8,7 @@ Features:
 - ZABBIX API authentication
 - LDAP -> ZABBIX groups mapping
     - Can be restricted to sync only certain groups
-- LDAP -> Gitlab users mapping
+- LDAP -> ZABBIX users mapping
     - Can be restricted to sync only existent users
     - Respects both primary group and group entities in LDAP
 - Automatically assigns admin users Zabbix admin role
